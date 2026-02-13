@@ -1,4 +1,3 @@
-# digital-forensics-ctf
 # Digital Forensics Capture The Flag (CTF)
 
 This repository documents my participation in team-based digital forensics

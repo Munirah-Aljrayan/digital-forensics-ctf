@@ -1,21 +1,25 @@
 # Digital Forensics Capture The Flag (CTF)
 
-This repository documents my personal participation in select digital forensics CTF challenges
-conducted at Imam Abdulrahman Bin Faisal University. While the team worked on multiple
-challenges, I independently tackled and documented the following:
+This repository is part of team-based digital forensics CTF challenges conducted 
+at Imam Abdulrahman Bin Faisal University. While the team tackled multiple challenges, 
+I personally worked on and documented the following two:
 
-## Challenges Completed
-- The Phantom Checkout
-- The Stolen Exam Attempt
+🚀 **Live Environment:** [View the CTF Platform](https://cyber-squad-b981d9ad.base44.app/)
 
-## Skills Applied
-- Digital forensics investigation
-- Evidence analysis and correlation
-- Analytical thinking in cybersecurity scenarios
-- Documentation of investigative methodology
+## 🔬 My Challenges
+
+### 1. The Phantom Checkout
+**Overview:** Investigated a suspicious attendance record in a university electronic fingerprint system. 
+A professor appeared to clock out daily at 4:00 PM without being in the building. A disk image from her computer was analyzed to reconstruct events and identify anomalies.  
+**Skills Applied:** Disk forensics, linux artifacts analysis.  
+
+### 2. The Stolen Exam Attempt
+**Overview:** Analyzed a suspicious remote access attempt on the university’s internal server targeting exam files. The investigation focused on identifying traces left by an unauthorized intruder and reconstructing the sequence of actions.  
+**Skills Applied:** Log analysis, metadata inspection.  
 
 ## Environment
 All challenges were conducted in controlled and legal academic environments.
 
 ## Date
 November 2025
+
